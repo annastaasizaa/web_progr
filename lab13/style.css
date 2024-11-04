@@ -1,0 +1,19 @@
+.style1 {
+    background-color: rgb(231, 242, 255);
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    padding: 28px;
+}
+
+h1, h2 {
+    font-size: 64px;
+    color: #0073e6;
+}
+
+.weather {
+    padding: 40px;
+}
+
+p {
+    font-size: 12px;
+}
